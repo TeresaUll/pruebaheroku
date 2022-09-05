@@ -21,6 +21,9 @@
     "@angular/platform-browser-dynamic": "^14.1.0",
     "@angular/router": "^14.1.0",
     "bootstrap": "^5.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^6.5.4",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
@@ -40,6 +43,6 @@
   },
   "engines": {
     "node": "v18.7.0",
-    "npm":"8.15.0"
+    "npm": "8.15.0"
   }
 }
